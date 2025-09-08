@@ -71,5 +71,5 @@ xdg-open index.html    # Linux
   
 - 👨‍💻 **Om Roy** – Backend Developer & GenAI Engineer
   
-  GitHub: [@omroy07](https://github.com/omroy07)
+  GitHub: [@seetsch](https://github.com/seetsch)
   
